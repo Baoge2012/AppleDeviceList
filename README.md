@@ -1,5 +1,7 @@
+# iPhone设备型号和名称对照表 (iPhone device model and name comparison table)
+
 | Device Model | Name |
-| - | :-: |
+| - | :- |
 | iPhone1,1 | iPhone |
 | iPhone1,2 | iPhone |
 | iPhone1,1	| iPhone |
