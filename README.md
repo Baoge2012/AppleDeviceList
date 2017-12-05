@@ -1,4 +1,4 @@
-# iPhone设备型号和名称对照表 (iPhone device model and name comparison table)
+# iPhone设备型号和名称对照表 (iPhone device model and name map table)
 
 | Device Model | Name |
 | - | :- |
