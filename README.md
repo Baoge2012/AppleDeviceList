@@ -25,6 +25,10 @@
 | iPhone9,2	| iPhone 7 Plus (A1661/A1785/A1786) |
 | iPhone9,3	| iPhone 7 (A1778) |
 | iPhone9,4	| iPhone 7 Plus (A1784) |
+| iPhone10,1	| iPhone 8 (CDMA) |
+| iPhone10,2	| iPhone 8 (GSM) |
+| iPhone10,2	| iPhone 8 Plus (CDMA) |
+| iPhone10,5	| iPhone 8 Plus (GSM) |
 | iPhone10,3	| iPhone X (A1865, A1902) |
 | iPhone10,6	| iPhone X (A1901) |
 | iPad1,1	| iPad |
